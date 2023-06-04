@@ -1,0 +1,6 @@
+welcome to html tutorial
+
+here we learn about html and some tags about html
+<h1>this is heading</h1>
+<h2>this is new heading</h2>
+<p>it is paragraph</>
